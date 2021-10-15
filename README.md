@@ -1,4 +1,4 @@
-![Github Logo](C:\Users\Callum\OneDrive - The Yiros Shop\Documents\Github Logo.jpg)
+
 
 # 							Smart Home Configuration 
 
@@ -9,14 +9,6 @@
 ------
 
 [TOC]
-
-------
-
-#### Smart Home / Network Map
-
-![Topology](C:\Users\Callum\OneDrive - The Yiros Shop\Documents\Topology.jpg)
-
-------
 
 #### Home Assistant Hardware
 
